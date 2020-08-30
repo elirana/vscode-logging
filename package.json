@@ -19,7 +19,7 @@
     "legal:copy": "lerna exec \"shx cp -r ../../.reuse .reuse && shx cp -r ../../LICENSES LICENSES\""
   },
   "devDependencies": {
-    "@types/chai": "4.2.7",
+    "@types/chai": "4.2.12",
     "@types/mocha": "8.0.1",
     "chai": "4.2.0",
     "chai-exclude": "2.0.2",
